@@ -6,9 +6,9 @@ The site presents a professional profile centered on production AI systems, Web3
 
 ## Live Site
 
-- Portfolio: [darkblood784.github.io/Adarsh-Rouniyar](https://darkblood784.github.io/Adarsh-Rouniyar/)
+- Portfolio: https://adarshrouniyar79.github.io/Adarsh-Rouniyar/
 - Resume: [Adarsh_rouniyar.pdf](./Adarsh_rouniyar.pdf)
-- GitHub: [github.com/darkblood784](https://github.com/darkblood784)
+- GitHub: [github.com/adarshrouniyar79](https://github.com/adarshrouniyar79)
 - LinkedIn: [linkedin.com/in/adarsh-rouniyar-876b1419b](https://www.linkedin.com/in/adarsh-rouniyar-876b1419b/)
 
 ## Project Overview
